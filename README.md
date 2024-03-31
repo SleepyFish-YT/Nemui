@@ -12,9 +12,8 @@ First ghost client for weave: Smok Client, but re-coded to maintain good perform
 <a href="https://discord.gg/7JXXvkufJK"><img src="https://invidget.switchblade.xyz/7JXXvkufJK" alt="https://discord.gg/7JXXvkufJK"/></a>
 
 # How to Install:
+###### Click on the image to get taken to the video!
 [![Installation guide](http://img.youtube.com/vi/dvzhBm5qFbA/0.jpg)](https://www.youtube.com/watch?v=dvzhBm5qFbA "HOW TO INSTALL SMOK CLIENT (REAL)")
-
-Click on the image to get taken to the video!
 
 # Legit mods like:
 - Aim Assist
