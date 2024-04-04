@@ -1,4 +1,4 @@
-# Smok-recode
+# Nemui a better Smok client recode
 First ghost client for weave: Smok Client, but re-coded to maintain good performance.
 
 # Repository Information:
