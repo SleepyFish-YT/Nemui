@@ -2,7 +2,7 @@
 First ghost client for weave: Smok Client, but re-coded to maintain good performance.
 
 # Repository Information:
-<p align="center">
+<p align="right">
   <img src="https://img.shields.io/github/languages/code-size/SleepyFish-YT/Nemui.svg" alt="code size"/>
   <img src="https://tokei.rs/b1/github/SleepyFish-YT/Nemui?moduleCategory=code" alt="total lines"/>
   <img src="https://img.shields.io/github/languages/top/SleepyFish-YT/Nemui" alt="java"/>
