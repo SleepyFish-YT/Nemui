@@ -31,5 +31,5 @@ First ghost client for weave: Smok Client, but re-coded to maintain good perform
 ###### Click on the image to get taken to the video!
 [![We love Smok!](http://img.youtube.com/vi/7ZDMQ2RRi-Y/0.jpg)](https://www.youtube.com/watch?v=7ZDMQ2RRi-Y&t=136s "Smok Preview")
 
-# Chat GPT description 
+# Chat GPT description
 Introducing the first ghost client optimized for Weave: Smok client, reimagined and recoded from the ground up to ensure exceptional performance and compatibility. Our open-source GitHub repository offers a refined version of Smok client tailored specifically for the Weave platform. Experience seamless integration, enhanced stability, and unparalleled performance in your Weave projects with our meticulously crafted solution.
