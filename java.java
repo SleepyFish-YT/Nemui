@@ -1,4 +1,4 @@
-package smok;
+package nemui;
 
 public class Java {
 }
