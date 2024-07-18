@@ -3,8 +3,8 @@ First ghost client for weave: Smok Client, but re-coded to maintain good perform
 
 # Repository Information:
 <p align="left">
-  <img src="https://img.shields.io/github/languages/code-size/Oxy-Client/Client.svg" alt="code size"/>
-  <img src="https://img.shields.io/github/languages/top/Oxy-Client/Client" alt="java"/>
+  <img src="https://img.shields.io/github/languages/code-size/SleepyFish-YT/Nemui.svg" alt="code size"/>
+  <img src="https://img.shields.io/github/languages/top/SleepyFish-YT/Nemui" alt="java"/>
 </p>
 
 # Discord Server:
