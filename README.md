@@ -4,7 +4,6 @@ First ghost client for weave: Smok Client, but re-coded to maintain good perform
 # Repository Information:
 <p align="left">
   <img src="https://img.shields.io/github/languages/code-size/Oxy-Client/Client.svg" alt="code size"/>
-  <img src="https://tokei.rs/b1/github/Oxy-Client?moduleCategory=code" alt="total lines"/>
   <img src="https://img.shields.io/github/languages/top/Oxy-Client/Client" alt="java"/>
 </p>
 
