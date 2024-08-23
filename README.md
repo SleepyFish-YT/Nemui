@@ -7,6 +7,8 @@ First ghost client for weave: Smok Client, but re-coded to maintain good perform
   <img src="https://img.shields.io/github/languages/top/SleepyFish-YT/Nemui" alt="java"/>
 </p>
 
+# Need help to install? [Click Me](https://www.youtube.com/watch?v=LRy8zQkezpE&t)
+
 # Discord Server:
 <a href="https://discord.gg/7JXXvkufJK"><img src="https://invidget.switchblade.xyz/7JXXvkufJK" alt="https://discord.gg/7JXXvkufJK"/></a>
 
