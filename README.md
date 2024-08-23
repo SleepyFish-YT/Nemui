@@ -1,18 +1,18 @@
 # Nemui a better Smok client recode
 First ghost client for weave: Smok Client, but re-coded to maintain good performance.
 
-# Repository Information:
+## Repository Information:
 <p align="left">
   <img src="https://img.shields.io/github/languages/code-size/SleepyFish-YT/Nemui.svg" alt="code size"/>
   <img src="https://img.shields.io/github/languages/top/SleepyFish-YT/Nemui" alt="java"/>
 </p>
 
-# Discord Server:
+## Discord Server:
 <a href="https://discord.gg/7JXXvkufJK"><img src="https://invidget.switchblade.xyz/7JXXvkufJK" alt="https://discord.gg/7JXXvkufJK"/></a>
 
-# How to Install? [Click Me](https://www.youtube.com/watch?v=LRy8zQkezpE&t)
+## How to Install? [Click Me](https://www.youtube.com/watch?v=LRy8zQkezpE&t)
 
-# Legit
+## Legit
 - Aim Assist
 - Left Clicker
 - Right Clicker
@@ -21,7 +21,7 @@ First ghost client for weave: Smok Client, but re-coded to maintain good perform
 - Eagle
 - Click Assist
 
-# Blatant
+## Blatant
 - Scaffold
 - Blink
 - Aura
@@ -30,7 +30,7 @@ First ghost client for weave: Smok Client, but re-coded to maintain good perform
 - Nuker
 - Collide Speed
 
-# Visuals
+## Visuals
 - Hotbar
 - Rotations
 - Gui
@@ -40,7 +40,7 @@ First ghost client for weave: Smok Client, but re-coded to maintain good perform
 - Shader Overlay
 - Target Hud
 
-# Other
+## Other
 - Move Fix
 - Notifications
 - Fast Place
@@ -49,7 +49,7 @@ First ghost client for weave: Smok Client, but re-coded to maintain good perform
 - Sprint
 - Spin
 
-# Useless
+## Useless
 - Camera
 - Fake Crash
 - No Rotate
@@ -57,7 +57,7 @@ First ghost client for weave: Smok Client, but re-coded to maintain good perform
 - Lunar Tweaks
 - Auto Pearl
 
-# Showcase
+## Showcase
 ###### Click on the image to get taken to the video!
 [![We love Smok!](http://img.youtube.com/vi/7ZDMQ2RRi-Y/0.jpg)](https://www.youtube.com/watch?v=7ZDMQ2RRi-Y&t=136s "Smok Preview")
 
