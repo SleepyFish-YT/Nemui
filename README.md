@@ -55,7 +55,7 @@ Nemui offers good visuals and nice animations so as ghostly modules to bypass ev
 ## Showcase
 ###### Click on the image to get taken to the video!
 [![We love Nemui!](http://img.youtube.com/vi/hjgYmctjPpQ/0.jpg)](https://www.youtube.com/watch?v=hjgYmctjPpQ "Nemui Preview")
-##### Nemui Official YouTube
+## Nemui Official YouTube
 [Nemui](https://www.youtube.com/@NemuiClient)
 
 ### Chat GPT description
