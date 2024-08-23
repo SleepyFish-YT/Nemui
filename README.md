@@ -56,14 +56,14 @@ Nemui offers good visuals and nice animations so as ghostly modules to bypass ev
 ###### Click on the image to get taken to the video!
 [![We love Smok!](http://img.youtube.com/vi/7ZDMQ2RRi-Y/0.jpg)](https://www.youtube.com/watch?v=7ZDMQ2RRi-Y&t=136s "Smok Preview")
 
-## Chat GPT description
+### Chat GPT description
 Introducing the first ghost client optimized for Weave: Nemui / Smok client, reimagined and recoded from the ground up to ensure exceptional performance and compatibility. Our open-source GitHub repository offers a refined version of Smok client tailored specifically for the Weave platform. Experience seamless integration, enhanced stability, and unparalleled performance in your Weave projects with our meticulously crafted solution.
 
-## What is weave ?
+### What is weave ?
 - A: Weave is like a Mod loader but for Lunar Client (Java Agent)
 
-## Why is there no reach ?
+### Why is there no reach ?
 - A: I dont know
 
-## How did you came up with the name "Smok" or "Nemui"
+### How did you came up with the name "Smok" or "Nemui"
 - A: "Smok" because a friends name is "Smok". "Nemui" was a random idea
