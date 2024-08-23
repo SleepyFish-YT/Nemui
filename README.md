@@ -14,21 +14,54 @@ First ghost client for weave: Smok Client, but re-coded to maintain good perform
 ###### Click on the image to get taken to the video!
 [![Installation guide](http://img.youtube.com/vi/dvzhBm5qFbA/0.jpg)](https://www.youtube.com/watch?v=dvzhBm5qFbA "HOW TO INSTALL SMOK CLIENT (REAL)")
 
-# Legit mods like:
+# Legit
 - Aim Assist
-- Clicker
+- Left Clicker
+- Right Clicker
+- Trigger Bot
+- Jump Reset
 - Eagle
-- Refill
+- Click Assist
 
-# Blatant mods like:
+# Blatant
 - Scaffold
-- Nuker
-- Aura
 - Blink
+- Aura
+- Hitbox
+- Auto Web
+- Nuker
+- Collide Speed
+
+# Visuals
+- Hotbar
+- Rotations
+- Gui
+- Text Gui
+- Esp
+- Chams
+- Shader Overlay
+- Target Hud
+
+# Other
+- Move Fix
+- Notifications
+- Fast Place
+- Auto Tool
+- Hit Delay
+- Sprint
+- Spin
+
+# Useless
+- Camera
+- Fake Crash
+- No Rotate
+- Auto MLG
+- Lunar Tweaks
+- Auto Pearl
 
 # Showcase
 ###### Click on the image to get taken to the video!
 [![We love Smok!](http://img.youtube.com/vi/7ZDMQ2RRi-Y/0.jpg)](https://www.youtube.com/watch?v=7ZDMQ2RRi-Y&t=136s "Smok Preview")
 
 # Chat GPT description
-Introducing the first ghost client optimized for Weave: Smok client, reimagined and recoded from the ground up to ensure exceptional performance and compatibility. Our open-source GitHub repository offers a refined version of Smok client tailored specifically for the Weave platform. Experience seamless integration, enhanced stability, and unparalleled performance in your Weave projects with our meticulously crafted solution.
+Introducing the first ghost client optimized for Weave: Nemui / Smok client, reimagined and recoded from the ground up to ensure exceptional performance and compatibility. Our open-source GitHub repository offers a refined version of Smok client tailored specifically for the Weave platform. Experience seamless integration, enhanced stability, and unparalleled performance in your Weave projects with our meticulously crafted solution.
