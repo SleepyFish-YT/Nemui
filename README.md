@@ -1,12 +1,6 @@
 # Nemui a better Smok client recode
 First ghost client for weave: Smok Client, but re-coded to maintain good performance.
 
-## Repository Information:
-<p align="left">
-  <img src="https://img.shields.io/github/languages/code-size/SleepyFish-YT/Nemui.svg" alt="code size"/>
-  <img src="https://img.shields.io/github/languages/top/SleepyFish-YT/Nemui" alt="java"/>
-</p>
-
 ## Discord Server:
 <a href="https://discord.gg/7JXXvkufJK"><img src="https://invidget.switchblade.xyz/7JXXvkufJK" alt="https://discord.gg/7JXXvkufJK"/></a>
 
