@@ -4,51 +4,6 @@ Nemui offers good visuals and nice animations so as ghostly modules to bypass ev
 
 ## How to Install? [Click Me](https://www.youtube.com/watch?v=LRy8zQkezpE&t)
 
-## Legit
-- Aim Assist
-- Left Clicker
-- Right Clicker
-- Trigger Bot
-- Jump Reset
-- Eagle
-- Click Assist
-
-## Blatant
-- Scaffold
-- Blink
-- Aura
-- Hitbox
-- Auto Web
-- Nuker
-- Collide Speed
-
-## Visuals
-- Hotbar
-- Rotations
-- Gui
-- Text Gui
-- Esp
-- Chams
-- Shader Overlay
-- Target Hud
-
-## Other
-- Move Fix
-- Notifications
-- Fast Place
-- Auto Tool
-- Hit Delay
-- Sprint
-- Spin
-
-## Useless
-- Camera
-- Fake Crash
-- No Rotate
-- Auto MLG
-- Lunar Tweaks
-- Auto Pearl
-
 ## Showcase
 [![We love Nemui!](http://img.youtube.com/vi/hjgYmctjPpQ/0.jpg)](https://www.youtube.com/watch?v=hjgYmctjPpQ "Nemui Preview")
 ###### (Click on the image to get taken to the video)
